@@ -1,0 +1,38 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+LOG_PATH_IS_UNDEFINED
+
+HELP.md
+.gradle
+*/build/
+*/out/
+!gradle/wrapper/gradle-wrapper.jar
+/out/
+target/
+### VS Code ###
+.vscode/
+.DS_Store
