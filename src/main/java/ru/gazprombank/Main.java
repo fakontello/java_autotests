@@ -12,8 +12,8 @@ public class Main {
         System.out.println("Площадь прямоугольника со сторонами " + r.a + " и " + r.b + " = " + r.area());
 
         Point p1 = new Point(3, 4);
-        Point p2 = new Point(7, 1);
-        System.out.println("Расстрояние между точками = " + distance(p1, p2));
+        Point p2 = new Point(7, 2);
+        System.out.println("Расстрояние между точками = " + p1.distance(p2));
     }
     public static void hello(String somebody) {
         System.out.println("Hello, " + somebody + "!");
