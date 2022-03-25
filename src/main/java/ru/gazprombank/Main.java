@@ -15,6 +15,7 @@ public class Main {
         System.out.println("Расстрояние между точками A(" + p1.x + ";" + p1.y + ") и B(" + p2.x + ";" + p2.y + ") = "
                 + Point.distance(p1, p2));
     }
+
     public static void hello(String somebody) {
         System.out.println("Hello, " + somebody + "!");
     }
